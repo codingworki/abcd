@@ -1,0 +1,70 @@
+body{
+    background-color: black;
+    font-family: 'Raleway', sans-serif;
+}
+.vhod{
+    width: 800px;
+    display: flex;
+    background-color: white;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left: 25%;
+    top: 25%;
+    border-radius: 20px;
+    flex-direction: column;
+}
+.vhod_title {
+    text-align: center;
+    font-family: Raleway;
+    font-weight: 800;
+    font-size: 44px;
+    margin-top: 50px;
+}
+#login {
+    width: 480px;
+    border-color: #EC5E21;
+    color: none;
+    border-radius: 20px;
+    outline: none;
+    text-decoration: none;
+    padding: 20px;
+    margin-top: 45px;
+    font-size: 24px;
+}
+#password {
+    width: 480px;
+    border-color: #EC5E21;
+    color: none;
+    border-radius: 20px;
+    outline: none;
+    text-decoration: none;
+    margin-top: 20px;
+    padding: 20px;
+    font-size: 24px;
+}
+.reg {
+    color:#EC5E21;
+    margin-top: 230px;
+    position: absolute;
+    left: 0;
+    margin-left: 150px;
+}
+.doi {
+    width: 480px;
+    border-color: #EC5E21;
+    color: black;
+    background-color: white;
+    margin-top: 100px;
+    padding: 20px;
+    font-size: 24px;
+    border-radius: 20px;
+    margin-bottom: 40px;
+    font-weight: 600;
+}
+.check {
+    margin-top: 160px;
+    position: absolute;
+    left: 0;
+    margin-left: 150px;
+}
